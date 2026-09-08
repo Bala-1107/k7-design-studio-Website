@@ -6,7 +6,7 @@ const services = [
     number: "01",
     title: "Architectural Services",
     category: "Architecture · Planning · Documentation",
-    image: "/images/architecture.png",
+    image: "/k7-design-studio-Website/images/architecture.png",
     description: "From early planning to coordinated construction drawings, K7 Design Studio develops architectural solutions that balance site conditions, function, aesthetics and practical execution.",
     details: [
       "2D & 3D plan layouts",
@@ -21,7 +21,7 @@ const services = [
     number: "02",
     title: "3D Visualization",
     category: "Visualization · Interiors · Walkthroughs",
-    image: "/images/dining-interior.png",
+    image: "/k7-design-studio-Website/images/dining-interior.png",
     description: "We turn design intent into clear visual experiences so clients can understand materials, proportions, lighting and atmosphere before execution begins.",
     details: [
       "Photorealistic interior visualization",
@@ -36,7 +36,7 @@ const services = [
     number: "03",
     title: "Interior Execution & PMC",
     category: "Interiors · Execution · Coordination",
-    image: "/images/interior-living.png",
+    image: "/k7-design-studio-Website/images/interior-living.png",
     description: "Approved concepts are carried into the real space through coordinated execution, detailing, vendor management and project monitoring.",
     details: [
       "Interior execution planning",
@@ -51,7 +51,7 @@ const services = [
     number: "04",
     title: "Landscape Design & Execution",
     category: "Landscape · Outdoor Spaces · Execution",
-    image: "/images/kavin-villa.png",
+    image: "/k7-design-studio-Website/images/kavin-villa.png",
     description: "Landscape concepts are developed as an extension of the architecture, creating outdoor spaces that complement the building and its everyday use.",
     details: [
       "Landscape planning and concepts",
@@ -70,10 +70,10 @@ const projects = [
     category: "Residential Architecture",
     location: "Chennai, Tamil Nadu",
     year: "Featured Project",
-    image: "/images/kavin-villa.png",
+    image: "/k7-design-studio-Website/images/kavin-villa.png",
     description: "A contemporary residential design developed around clean volumes, warm lighting and a layered relationship between the home, landscape and street frontage.",
     scope: "Architectural planning · Exterior design · 3D visualization · Interior coordination",
-    gallery: ["/images/kavin-villa.png", "/images/architecture.png", "/images/interior-living.png"]
+    gallery: ["/k7-design-studio-Website/images/kavin-villa.png", "/k7-design-studio-Website/images/architecture.png", "/k7-design-studio-Website/images/interior-living.png"]
   },
   {
     slug: "interior-living-space",
@@ -81,10 +81,10 @@ const projects = [
     category: "Interior Design",
     location: "Chennai, Tamil Nadu",
     year: "Featured Interior",
-    image: "/images/interior-living.png",
+    image: "/k7-design-studio-Website/images/interior-living.png",
     description: "A warm contemporary interior language using timber textures, natural light and restrained material contrasts to create a calm everyday living environment.",
     scope: "Interior concept · Material palette · 3D visualization · Design detailing",
-    gallery: ["/images/interior-living.png", "/images/dining-interior.png", "/images/kavin-villa.png"]
+    gallery: ["/k7-design-studio-Website/images/interior-living.png", "/k7-design-studio-Website/images/dining-interior.png", "/k7-design-studio-Website/images/kavin-villa.png"]
   },
   {
     slug: "contemporary-dining",
@@ -92,10 +92,10 @@ const projects = [
     category: "Interior Design",
     location: "Chennai, Tamil Nadu",
     year: "Featured Interior",
-    image: "/images/dining-interior.png",
+    image: "/k7-design-studio-Website/images/dining-interior.png",
     description: "A refined dining environment built around warm vertical timber, atmospheric lighting and a dark material palette for a more intimate character.",
     scope: "Interior concept · Lighting direction · Material coordination · Visualization",
-    gallery: ["/images/dining-interior.png", "/images/interior-living.png", "/images/architecture.png"]
+    gallery: ["/k7-design-studio-Website/images/dining-interior.png", "/k7-design-studio-Website/images/interior-living.png", "/k7-design-studio-Website/images/architecture.png"]
   }
 ];
 

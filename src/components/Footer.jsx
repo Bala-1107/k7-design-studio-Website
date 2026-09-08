@@ -3,7 +3,7 @@ function Footer() {
     <footer className="footer">
       <div className="container footer-grid">
         <div className="footer-brand">
-          <img src="/images/k7-logo.png" alt="K7 Design Studio" />
+          <img src="/k7-design-studio-Website/images/k7-logo.png" alt="K7 Design Studio" />
           <p>Architects & Interiors</p>
           <span>Planning · Design · Execution</span>
         </div>

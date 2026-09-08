@@ -44,7 +44,7 @@ h2 { font-size: clamp(54px, 6vw, 86px); letter-spacing: -.025em; }
 
 /* HERO */
 .hero { min-height: 100vh; position: relative; display: flex; align-items: center; overflow: hidden; color: var(--white); }
-.hero-image { position: absolute; inset: 0; background: url('/images/kavin-villa.png') center/cover no-repeat; transform: scale(1.02); }
+.hero-image { position: absolute; inset: 0; background: url('/k7-design-studio-Website/images/kavin-villa.png') center/cover no-repeat; transform: scale(1.02); }
 .hero-overlay { position: absolute; inset: 0; background: linear-gradient(90deg, rgba(0,0,0,.73) 0%, rgba(0,0,0,.43) 50%, rgba(0,0,0,.2) 100%); }
 .hero-content { position: relative; z-index: 2; padding-top: 100px; }
 .hero .eyebrow { color: rgba(255,255,255,.76); }

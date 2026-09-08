@@ -2,19 +2,19 @@ const projects = [
   {
     title: "Kavin Villa",
     category: "Residential Architecture",
-    image: "/images/kavin-villa.png",
+    image: "/k7-design-studio-Website/images/kavin-villa.png",
     slug: "kavin-villa"
   },
   {
     title: "Interior Living Space",
     category: "Interior Design",
-    image: "/images/interior-living.png",
+    image: "/k7-design-studio-Website/images/interior-living.png",
     slug: "interior-living-space"
   },
   {
     title: "Contemporary Dining",
     category: "Interior Design",
-    image: "/images/dining-interior.png",
+    image: "/k7-design-studio-Website/images/dining-interior.png",
     slug: "contemporary-dining"
   }
 ];

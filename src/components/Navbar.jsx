@@ -21,7 +21,7 @@ function Navbar() {
     <header className="navbar">
       <div className="nav-container">
         <a href="#home" className="brand" onClick={closeMenu} aria-label="K7 Design Studio home">
-          <img src="/images/k7-logo.png" alt="K7 Design Studio - Architects & Interiors" />
+          <img src="/k7-design-studio-Website/images/k7-logo.png" alt="K7 Design Studio - Architects & Interiors" />
         </a>
 
         <nav className={`nav-links ${open ? "active" : ""}`} aria-label="Main navigation">

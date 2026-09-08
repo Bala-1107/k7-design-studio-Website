@@ -3,28 +3,28 @@ const services = [
     number: "01",
     title: "Architectural Services",
     description: "2D & 3D plan layouts, elevations, structural drawings, electrical and plumbing drawings.",
-    image: "/images/architecture.png",
+    image: "/k7-design-studio-Website/images/architecture.png",
     slug: "architectural-services"
   },
   {
     number: "02",
     title: "3D Visualization",
     description: "Interior design concepts and walkthrough visualization that help you experience the space before execution.",
-    image: "/images/dining-interior.png",
+    image: "/k7-design-studio-Website/images/dining-interior.png",
     slug: "3d-visualization"
   },
   {
     number: "03",
     title: "Interior Execution & PMC",
     description: "From approved design to execution, we coordinate the transformation of interiors with attention to detail.",
-    image: "/images/interior-living.png",
+    image: "/k7-design-studio-Website/images/interior-living.png",
     slug: "interior-execution-pmc"
   },
   {
     number: "04",
     title: "Landscape Design & Execution",
     description: "Thoughtful landscape design and execution that completes the character of residential and commercial environments.",
-    image: "/images/kavin-villa.png",
+    image: "/k7-design-studio-Website/images/kavin-villa.png",
     slug: "landscape-design-execution"
   }
 ];

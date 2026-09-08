@@ -3,7 +3,7 @@ function About() {
     <section className="about section" id="about">
       <div className="container about-grid">
         <div className="about-image image-frame">
-          <img src="/images/kavin-villa.png" alt="Kavin Villa designed by K7 Design Studio" />
+          <img src="/k7-design-studio-Website/images/kavin-villa.png" alt="Kavin Villa designed by K7 Design Studio" />
           <span className="image-caption">Featured residential work · Kavin Villa</span>
         </div>
 
